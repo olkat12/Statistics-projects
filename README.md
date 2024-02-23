@@ -9,5 +9,5 @@ This project aims to investigate how varying the number of variables generated f
 This project investigates the weekly return rates of company listed on the stock exchange, utilizing a dataset sourced from stooq.pl.
 The primary objectives include testing the normality of the rate distribution through the application of the Shapiro-Wilk test, Kolmogorov test, and Chi-squared test. Additionally, the study aims to assess variation, standard distribution, and the proportion of positive and negative rates, employing the T-student test, F-test, and proportion test, respectively.
 
-## Ged_distribution_estimators
+## GED_distribution_estimators
 This project focuses on the General Error Distribution (GED) and the estimators estimated using the Maximum Likelihood Method (MLM). It aims to investigate how the distribution of MLM estimators varies based on the number of variables used for estimation.
