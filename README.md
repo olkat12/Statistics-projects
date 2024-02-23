@@ -1,6 +1,6 @@
 # Statistics-projects
 
-This repository includes group projects in the field of mathematical statictisc written in R.
+This repository includes group projects in the field of mathematical statistics written in R.
 
 ## Gamma_distribution_properties
 This project aims to investigate how varying the number of variables generated from a gamma distribution, along with different distribution parameters, influences the mean of the distribution. The objective is to generate numbers, analyze the distribution of means, and explore the impact of different variables and distribution parameters on the resulting means.
